@@ -11,7 +11,7 @@
 - **longitud**
 
 
-  ![Especificacion de longitud](https://www.lucidchart.com/publicSegments/view/be4aaf7c-32e4-4569-81c1-01355152fa03/image.png)
+  ![Especificacion de longitud](https://www.lucidchart.com/publicSegments/view/41bdb05c-33f7-44c4-af23-85d4c6eac020/image.png)
   
   
 - **esVacia**
